@@ -1,0 +1,96 @@
+body{
+    background-color: rgba(233, 215, 194, 0.74);
+}
+.yakor{
+    border: 3px solid rgb(179, 168, 147); 
+    text-decoration: none; 
+    background-color: rgb(245, 227, 215);
+    color: black; 
+    margin-left: 30px;
+    font-size: 20px;
+}
+p{
+    text-align: center;
+}
+h1{
+    text-align: center; 
+    font-size: 30px;
+    margin-top: 20px;
+    color: rgb(90, 77, 63);
+}
+.perfoto{
+    height: 300px;
+    width: 500px;
+    margin-top: 2px;
+    margin-right: 2px;
+    margin-left: 2px;
+    margin-bottom: 2px;
+}
+.tablica{
+    border: 1px solid black; 
+}
+td{
+    border: 2px solid;
+    text-align: center;
+    height: 35px;
+    width: 80px;
+}
+.emty{
+    background-color: rgb(148, 138, 128) ;
+}
+.spisok{
+    text-align: center;
+    width: 300px;
+    font-size: 24px;
+    background-color: rgb(245, 239, 234);
+}
+.otodvin{
+    margin-top: 30px;
+    margin-left: 17%;
+}
+.otodvin2{
+    margin-top: 30px;
+    margin-left: 15%;
+}
+.raspisanie{
+    margin-left: 31%;
+    background-color: rgb(245, 239, 234);
+}
+li{
+    text-align: left;
+    font-size: 17px;
+}
+img{
+    height: 20px;
+    width: 20px;
+}
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.prepod{
+    border-radius: 300px;
+    height: 300px;
+    width: 300px;
+    margin-left: 20px;
+}
+.prepods{
+    border: none;
+    border-collapse: separate;
+    background-color: rgba(233, 215, 194, 0.74);
+}
+table{
+    border-collapse: collapse;
+}
+.granprepod{
+border: none; 
+font-size: 20px;
+}
+.contakti{
+    margin-top: 50px;
+}
+.con{
+    height: 100px;
+    width: 100px;
+    margin-left: 10px;
+}
